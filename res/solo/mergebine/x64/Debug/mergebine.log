@@ -1,0 +1,4 @@
+﻿  mergebine.cpp
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\res\solo1\mergebine\mergebine.cpp(1090): warning C4715: 'gard1': not all control paths return a value
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\res\solo1\mergebine\mergebine.cpp(1226): warning C4715: 'gard2': not all control paths return a value
+  mergebine.vcxproj -> C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\res\solo1\mergebine\x64\Debug\mergebine.exe

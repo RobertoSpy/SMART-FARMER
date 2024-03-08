@@ -1,0 +1,335 @@
+﻿  main.cpp
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(746,22): warning C4566: character represented by universal-character-name '\u0219' cannot be represented in the current code page (1252)
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1550,101): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1550,101): warning C4244:         with
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1550,101): warning C4244:         [
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1550,101): warning C4244:             T=int
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1550,101): warning C4244:         ]
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1550,101): warning C4244:         and
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1550,101): warning C4244:         [
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1550,101): warning C4244:             T=float
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1550,101): warning C4244:         ]
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1550,89): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1550,89): warning C4244:         with
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1550,89): warning C4244:         [
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1550,89): warning C4244:             T=int
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1550,89): warning C4244:         ]
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1550,89): warning C4244:         and
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1550,89): warning C4244:         [
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1550,89): warning C4244:             T=float
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1550,89): warning C4244:         ]
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1556,116): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1556,116): warning C4244:         with
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1556,116): warning C4244:         [
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1556,116): warning C4244:             T=int
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1556,116): warning C4244:         ]
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1556,116): warning C4244:         and
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1556,116): warning C4244:         [
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1556,116): warning C4244:             T=float
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1556,116): warning C4244:         ]
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1556,104): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1556,104): warning C4244:         with
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1556,104): warning C4244:         [
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1556,104): warning C4244:             T=int
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1556,104): warning C4244:         ]
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1556,104): warning C4244:         and
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1556,104): warning C4244:         [
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1556,104): warning C4244:             T=float
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1556,104): warning C4244:         ]
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1565,104): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1565,104): warning C4244:         with
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1565,104): warning C4244:         [
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1565,104): warning C4244:             T=int
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1565,104): warning C4244:         ]
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1565,104): warning C4244:         and
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1565,104): warning C4244:         [
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1565,104): warning C4244:             T=float
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1565,104): warning C4244:         ]
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1565,92): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1565,92): warning C4244:         with
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1565,92): warning C4244:         [
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1565,92): warning C4244:             T=int
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1565,92): warning C4244:         ]
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1565,92): warning C4244:         and
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1565,92): warning C4244:         [
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1565,92): warning C4244:             T=float
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1565,92): warning C4244:         ]
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1571,108): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1571,108): warning C4244:         with
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1571,108): warning C4244:         [
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1571,108): warning C4244:             T=int
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1571,108): warning C4244:         ]
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1571,108): warning C4244:         and
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1571,108): warning C4244:         [
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1571,108): warning C4244:             T=float
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1571,108): warning C4244:         ]
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1571,96): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1571,96): warning C4244:         with
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1571,96): warning C4244:         [
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1571,96): warning C4244:             T=int
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1571,96): warning C4244:         ]
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1571,96): warning C4244:         and
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1571,96): warning C4244:         [
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1571,96): warning C4244:             T=float
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1571,96): warning C4244:         ]
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1577,103): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1577,103): warning C4244:         with
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1577,103): warning C4244:         [
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1577,103): warning C4244:             T=int
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1577,103): warning C4244:         ]
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1577,103): warning C4244:         and
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1577,103): warning C4244:         [
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1577,103): warning C4244:             T=float
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1577,103): warning C4244:         ]
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1577,91): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1577,91): warning C4244:         with
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1577,91): warning C4244:         [
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1577,91): warning C4244:             T=int
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1577,91): warning C4244:         ]
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1577,91): warning C4244:         and
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1577,91): warning C4244:         [
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1577,91): warning C4244:             T=float
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1577,91): warning C4244:         ]
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1587,106): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1587,106): warning C4244:         with
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1587,106): warning C4244:         [
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1587,106): warning C4244:             T=int
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1587,106): warning C4244:         ]
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1587,106): warning C4244:         and
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1587,106): warning C4244:         [
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1587,106): warning C4244:             T=float
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1587,106): warning C4244:         ]
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1587,94): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1587,94): warning C4244:         with
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1587,94): warning C4244:         [
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1587,94): warning C4244:             T=int
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1587,94): warning C4244:         ]
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1587,94): warning C4244:         and
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1587,94): warning C4244:         [
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1587,94): warning C4244:             T=float
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1587,94): warning C4244:         ]
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1597,104): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1597,104): warning C4244:         with
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1597,104): warning C4244:         [
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1597,104): warning C4244:             T=int
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1597,104): warning C4244:         ]
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1597,104): warning C4244:         and
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1597,104): warning C4244:         [
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1597,104): warning C4244:             T=float
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1597,104): warning C4244:         ]
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1597,92): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1597,92): warning C4244:         with
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1597,92): warning C4244:         [
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1597,92): warning C4244:             T=int
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1597,92): warning C4244:         ]
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1597,92): warning C4244:         and
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1597,92): warning C4244:         [
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1597,92): warning C4244:             T=float
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1597,92): warning C4244:         ]
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1606,109): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1606,109): warning C4244:         with
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1606,109): warning C4244:         [
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1606,109): warning C4244:             T=int
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1606,109): warning C4244:         ]
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1606,109): warning C4244:         and
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1606,109): warning C4244:         [
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1606,109): warning C4244:             T=float
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1606,109): warning C4244:         ]
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1606,97): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1606,97): warning C4244:         with
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1606,97): warning C4244:         [
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1606,97): warning C4244:             T=int
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1606,97): warning C4244:         ]
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1606,97): warning C4244:         and
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1606,97): warning C4244:         [
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1606,97): warning C4244:             T=float
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1606,97): warning C4244:         ]
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1612,109): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1612,109): warning C4244:         with
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1612,109): warning C4244:         [
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1612,109): warning C4244:             T=int
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1612,109): warning C4244:         ]
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1612,109): warning C4244:         and
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1612,109): warning C4244:         [
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1612,109): warning C4244:             T=float
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1612,109): warning C4244:         ]
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1612,97): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1612,97): warning C4244:         with
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1612,97): warning C4244:         [
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1612,97): warning C4244:             T=int
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1612,97): warning C4244:         ]
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1612,97): warning C4244:         and
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1612,97): warning C4244:         [
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1612,97): warning C4244:             T=float
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1612,97): warning C4244:         ]
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1618,109): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1618,109): warning C4244:         with
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1618,109): warning C4244:         [
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1618,109): warning C4244:             T=int
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1618,109): warning C4244:         ]
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1618,109): warning C4244:         and
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1618,109): warning C4244:         [
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1618,109): warning C4244:             T=float
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1618,109): warning C4244:         ]
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1618,97): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1618,97): warning C4244:         with
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1618,97): warning C4244:         [
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1618,97): warning C4244:             T=int
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1618,97): warning C4244:         ]
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1618,97): warning C4244:         and
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1618,97): warning C4244:         [
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1618,97): warning C4244:             T=float
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1618,97): warning C4244:         ]
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1625,109): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1625,109): warning C4244:         with
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1625,109): warning C4244:         [
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1625,109): warning C4244:             T=int
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1625,109): warning C4244:         ]
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1625,109): warning C4244:         and
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1625,109): warning C4244:         [
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1625,109): warning C4244:             T=float
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1625,109): warning C4244:         ]
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1625,97): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1625,97): warning C4244:         with
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1625,97): warning C4244:         [
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1625,97): warning C4244:             T=int
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1625,97): warning C4244:         ]
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1625,97): warning C4244:         and
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1625,97): warning C4244:         [
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1625,97): warning C4244:             T=float
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1625,97): warning C4244:         ]
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1639,105): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1639,105): warning C4244:         with
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1639,105): warning C4244:         [
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1639,105): warning C4244:             T=int
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1639,105): warning C4244:         ]
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1639,105): warning C4244:         and
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1639,105): warning C4244:         [
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1639,105): warning C4244:             T=float
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1639,105): warning C4244:         ]
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1639,93): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1639,93): warning C4244:         with
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1639,93): warning C4244:         [
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1639,93): warning C4244:             T=int
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1639,93): warning C4244:         ]
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1639,93): warning C4244:         and
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1639,93): warning C4244:         [
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1639,93): warning C4244:             T=float
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1639,93): warning C4244:         ]
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1642,29): warning C4566: character represented by universal-character-name '\u0103' cannot be represented in the current code page (1252)
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1644,120): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1644,120): warning C4244:         with
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1644,120): warning C4244:         [
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1644,120): warning C4244:             T=int
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1644,120): warning C4244:         ]
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1644,120): warning C4244:         and
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1644,120): warning C4244:         [
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1644,120): warning C4244:             T=float
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1644,120): warning C4244:         ]
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1644,108): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1644,108): warning C4244:         with
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1644,108): warning C4244:         [
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1644,108): warning C4244:             T=int
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1644,108): warning C4244:         ]
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1644,108): warning C4244:         and
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1644,108): warning C4244:         [
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1644,108): warning C4244:             T=float
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1644,108): warning C4244:         ]
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1647,29): warning C4566: character represented by universal-character-name '\u0103' cannot be represented in the current code page (1252)
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1649,107): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1649,107): warning C4244:         with
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1649,107): warning C4244:         [
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1649,107): warning C4244:             T=int
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1649,107): warning C4244:         ]
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1649,107): warning C4244:         and
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1649,107): warning C4244:         [
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1649,107): warning C4244:             T=float
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1649,107): warning C4244:         ]
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1649,95): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1649,95): warning C4244:         with
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1649,95): warning C4244:         [
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1649,95): warning C4244:             T=int
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1649,95): warning C4244:         ]
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1649,95): warning C4244:         and
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1649,95): warning C4244:         [
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1649,95): warning C4244:             T=float
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1649,95): warning C4244:         ]
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1652,29): warning C4566: character represented by universal-character-name '\u0103' cannot be represented in the current code page (1252)
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1654,112): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1654,112): warning C4244:         with
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1654,112): warning C4244:         [
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1654,112): warning C4244:             T=int
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1654,112): warning C4244:         ]
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1654,112): warning C4244:         and
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1654,112): warning C4244:         [
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1654,112): warning C4244:             T=float
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1654,112): warning C4244:         ]
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1654,100): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1654,100): warning C4244:         with
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1654,100): warning C4244:         [
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1654,100): warning C4244:             T=int
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1654,100): warning C4244:         ]
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1654,100): warning C4244:         and
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1654,100): warning C4244:         [
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1654,100): warning C4244:             T=float
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1654,100): warning C4244:         ]
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1657,29): warning C4566: character represented by universal-character-name '\u0103' cannot be represented in the current code page (1252)
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1659,111): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1659,111): warning C4244:         with
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1659,111): warning C4244:         [
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1659,111): warning C4244:             T=int
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1659,111): warning C4244:         ]
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1659,111): warning C4244:         and
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1659,111): warning C4244:         [
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1659,111): warning C4244:             T=float
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1659,111): warning C4244:         ]
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1659,99): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1659,99): warning C4244:         with
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1659,99): warning C4244:         [
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1659,99): warning C4244:             T=int
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1659,99): warning C4244:         ]
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1659,99): warning C4244:         and
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1659,99): warning C4244:         [
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1659,99): warning C4244:             T=float
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1659,99): warning C4244:         ]
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1662,29): warning C4566: character represented by universal-character-name '\u0103' cannot be represented in the current code page (1252)
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1664,110): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1664,110): warning C4244:         with
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1664,110): warning C4244:         [
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1664,110): warning C4244:             T=int
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1664,110): warning C4244:         ]
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1664,110): warning C4244:         and
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1664,110): warning C4244:         [
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1664,110): warning C4244:             T=float
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1664,110): warning C4244:         ]
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1664,98): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1664,98): warning C4244:         with
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1664,98): warning C4244:         [
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1664,98): warning C4244:             T=int
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1664,98): warning C4244:         ]
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1664,98): warning C4244:         and
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1664,98): warning C4244:         [
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1664,98): warning C4244:             T=float
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1664,98): warning C4244:         ]
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1667,29): warning C4566: character represented by universal-character-name '\u0103' cannot be represented in the current code page (1252)
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1669,109): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1669,109): warning C4244:         with
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1669,109): warning C4244:         [
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1669,109): warning C4244:             T=int
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1669,109): warning C4244:         ]
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1669,109): warning C4244:         and
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1669,109): warning C4244:         [
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1669,109): warning C4244:             T=float
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1669,109): warning C4244:         ]
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1669,97): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1669,97): warning C4244:         with
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1669,97): warning C4244:         [
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1669,97): warning C4244:             T=int
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1669,97): warning C4244:         ]
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1669,97): warning C4244:         and
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1669,97): warning C4244:         [
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1669,97): warning C4244:             T=float
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1669,97): warning C4244:         ]
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(872): warning C4715: 'gard1': not all control paths return a value
+C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\main.cpp(1008): warning C4715: 'gard2': not all control paths return a value
+  Test project.vcxproj -> C:\Users\Roberto\OneDrive\Desktop\Smart Farmer\Test project\x64\Debug\Test project.exe
